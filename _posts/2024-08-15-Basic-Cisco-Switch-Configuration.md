@@ -1,10 +1,10 @@
 ---
-title: How to create a VLAN on a Cisco router
-description: Example on how to create VLAN and configure a switch.
-author: David
-date: 2024-08-15 11:00:00 +0800
-categories: [Networking, Cisco, Config]
-tags: [Networking, Infra]
+title: Text and Typography
+description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+author: cotes
+date: 2019-08-08 11:33:00 +0800
+categories: [Blogging, Demo]
+tags: [typography]
 ---
 
 ## Headings
