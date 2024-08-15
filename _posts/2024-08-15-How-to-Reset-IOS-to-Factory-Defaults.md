@@ -9,7 +9,7 @@ image:
 ---
 
 
-# How to Reset Cisco IOS to Factory Defaults
+# How to Reset IOS to Factory Defaults
 
 ## 1. Access the Router
 First, you need to connect to your Cisco router or switch. This can be done using a console cable connected to your computer and accessing the device via a terminal emulator (e.g., PuTTY, Tera Term, or HyperTerminal).
@@ -37,7 +37,7 @@ erase startup-config
 ```
 
 ## 4. Erase the VLAN Data (Optional)
-If you're working with a switch and want to clear VLAN data, you should also erase the VLAN database:
+If you're working with a switch and want to clear VLAN data, you should also erase the VLAN database: Read why this is a good idea here ; link to post
 
 ```sh
 delete flash:vlan.dat
