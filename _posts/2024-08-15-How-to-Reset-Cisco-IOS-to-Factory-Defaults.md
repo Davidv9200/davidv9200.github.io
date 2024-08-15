@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Reset Cisco IOS to Factory Defaults"
-date: 2024-08-15 13:22:00 -0000
+date: 2024-08-15 11:22:00 -0000
 categories: hardware networking
 tags: tutorial config
 image:
