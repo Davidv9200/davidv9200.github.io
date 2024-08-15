@@ -2,7 +2,7 @@
 title: How to create a VLAN on a Cisco router
 description: Example on how to create VLAN and configure a switch.
 author: David
-date: 2024-08-15 11:00:00 +0800
+date: 2024-08-15 11:00:00 +0000
 categories: [Networking, Cisco, Config]
 tags: [Networking, Infra]
 ---
